@@ -1,0 +1,3 @@
+In summary election audit results provides an analysis of how votes were casted and where there was more
+voting due versus other counties where there was a low voting numbers. It also shows how some candidates faired 
+much better than other candidates and in the end which candidate had the most votes based on final results.
